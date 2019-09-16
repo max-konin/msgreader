@@ -57,6 +57,7 @@ export default {
         '0c1a': 'senderName',
         '5d02': 'senderEmail',
         '1000': 'body',
+        '1013': 'bodyHTML',
         '007d': 'headers',
         // attachment specific
         '3703': 'extension',
